@@ -22,9 +22,6 @@ output:
 
 # This week we're modeling to learn how to align our team vision.
 
-
-They will be your facilitators for MTL. Learn more about your facilitators and the rest of our team at mtl.how/team.
-
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
 | --- |   
 |**At Our Next Team Meeting**|
