@@ -20,9 +20,15 @@ output:
 
 # This week we're modeling to learn how to align our team vision.
 
+
+They will be your facilitators for MTL. Learn more about your facilitators and the rest of our team at mtl.how/team.
+
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
 | --- |   
 |**At Our Next Team Meeting**|
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |   
-[<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/moore_headshot_circle.png" height= "75" width="75">](https://forio.com/app/va/va-psd-team/teampsd.html) Matt Moore, Ph.D.... <br> [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/branscomb_headshot_circle.jpg" height="75" width="75">](https://forio.com/app/va/va-psd-team/teampsd.html) Jane Branscomb, MPH... <br> will be the facilitators for _MTL_. Learn more about your facilitators and the rest of our team at [mtl.how/team.](https://mtl.how/team)|   
+**Introducing your _Modeling to Learn_ Co-Facilitators.** Learn more about who we are and what we do at [mtl.how/team.](https://mtl.how/team)
+[<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/moore_headshot_circle.png" height= "75" width="75">](https://forio.com/app/va/va-psd-team/teampsd.html) 
+Matt Moore, Ph.D is a Clinical Psychologist and Quality Improvement Implementation Consultant at the VA Office of Mental Health and Suicide Prevention. <br> [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/branscomb_headshot_circle.jpg" height="75" width="75">](https://forio.com/app/va/va-psd-team/teampsd.html)  
+Jane Branscomb, MPH is a Senior Research Associate at the Georgia Health Policy Center at Georgia State University. <br> will be the facilitators for _MTL_. |   
 [<img src = "https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo_mini.jpg" height = "75" width = "75">](https://www.docs.lms.va.gov/LMSDocs/default.aspx?id=56771) &nbsp; [Register for continuing education credit. Course code: **VA 41387**](https://www.docs.lms.va.gov/LMSDocs/default.aspx?id=56771)  
