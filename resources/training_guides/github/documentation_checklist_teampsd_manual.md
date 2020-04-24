@@ -33,7 +33,7 @@
 ## Issue Card
 - [ ] The **issue** card includes a **guide** and **list of action items** for you to complete to ensure that the content of the card is as useful and self-explanatory as possible.
 - [ ] The [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/issue.md) includes **Title & Due Date**, suggestions to add **screenshots** and a **9 click** step on assigning the issue.
-- [ ] Cards using this template will go through either the [**bug_tracker**](https://mtl.how/bugs) or be associated with each of the workgroups using the **labels** tabe
+- [ ] Cards using this template will go through either the [bug_tracker](https://mtl.how/bugs) or be associated with each of the workgroups using the **labels** tabe
 - [ ] Decide if your **issue card** is a **Bug** or a **Task** and change the title to reflect this.
 - [ ] Add a brief **description** that will enable others to **orient** themselves to the overall content of the **issue** .
 - [ ] The **9 clicks** refer to allocation of the **issue card** within the [TeamPSD work space](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/board?assignees=ritahitching&filterLogic=any&repos=87591711) - options within each **section** can be seen by **pulling down on the arrow** by the **section label**. 
@@ -41,10 +41,10 @@
 - [ ] All **urgent issues** including **bugs** should be assigned to the **Priority Epic**.
 - [ ] Other **task cards** should be allocated to the appropriate **pipeline** which includes **Priority Epic** (current focus of work), **Upcoming Epic** (work that will need to be completed by the next epic) and **Upcoming Backlog** (work that will need to be completed two epics back from the curren epic) and **Icebox** (work that will need to be completed but does not currently have an associated due date)
 - [ ] Select the appropriate **Assignee** this will typically be you or an individual team member producing work for the issue.  Typically only **1** person is assigned to a task card.
+- [ ] Select an **label** for your issue card - typically the choice of label is associated with the **workgroup lead** for which the task card is associated with - they are responsible for tracking and completing the task.  
+- [ ] In TeamPSD **projects** refer to the **TeamPSD trackers** ([issues](https://github.com/lzim/teampsd/issues), [bugs](http://mtl.how/bugs), [features](http://mtl.how/features), [document](http://mtl.how/documents), [manuscript](http://mtl.how/manuscript), and [team](http://mtl.how/team)).  Select the **Projects** your issue card is associate with. **Note** that **not all** issue cards need to be associated with a **project** with the **exception** of **bugs** which always need to be associated with the [bug tracker](http://mtl.how/bugs)
 
-
-iii. Label- assign workgroup (lead) responsible for tracking and completing the task
-iv. Projects - assign to domain-specific TeamPSD tracker (issues, features, document, manuscript, team)
+- assign to domain-specific TeamPSD tracker (issues, features, document, manuscript, team)
 v. Milestones - select monthly sprint milestone within the workgroup
 vi. Estimate - Estimate task in complexity points
 vii. Epics - assign to team-wide epic and TeamPSD master plan project
