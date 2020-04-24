@@ -17,6 +17,11 @@
 - [ ] Ensure you have access to TeamPSD Repos [**MTL.how/teampsd**](https://github.com/lzim/teampsd) and [**mtl.how/mtl**](https://github.com/lzim/mtl) more details [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/repositories.md)
 - [ ] Basics of GitHub for TeamPSD [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
 
+## Visual Maps for TeamPSD Github
+- [ ] Visual map on creating a [new issue or bug](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/zenhub_flow.md)
+- [ ] Visual map on updating [issue cards](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/documentation_map.md)
+
+
 ## TeamPSD Issues or Features
 - [ ] Orient to **MTL.how/teampsd** on your internet browser
 - [ ] In the panel select the **Issues** tab
