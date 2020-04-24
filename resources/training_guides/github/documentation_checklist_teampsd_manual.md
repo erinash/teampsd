@@ -1,7 +1,7 @@
 
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/team_psd_logo_sm.png" height = "200" width = "600">  
 
-## GitHub Documentation Checklist for Team PSD Manual 
+# GitHub Documentation Checklist for Team PSD Manual 
 
 ## Github & ZenHub Accounts
 - [ ] Create a **GitHub account** [here](https://github.com/)
@@ -21,8 +21,7 @@
 - [ ] Visual map on creating a [new issue or bug](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/zenhub_flow.md)
 - [ ] Visual map on updating [issue cards](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/documentation_map.md)
 
-
-## TeamPSD Issues or Features
+## TeamPSD Difference Between Issue or Feature Cards
 - [ ] Orient to **MTL.how/teampsd** on your internet browser
 - [ ] In the panel select the **Issues** tab
 - [ ] Select the **New Issue** green square on the right hand side
@@ -32,12 +31,34 @@
 - [ ] Follow the steps for the different type of card below
 
 ## Issue Card
+- [ ] The **issue** card includes a **guide** and **list of action items** for you to complete to ensure that the content of the card is as useful and self-explanatory as possible.
+- [ ] The [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/issue.md) includes **Title & Due Date**, suggestions to add **screenshots** and a **9 click** step on assigning the issue.
 - [ ] Cards using this template will go through either the [**bug_tracker**](https://mtl.how/bugs) or be associated with each of the workgroups using the **labels** tabe
-- [ ] Describe how to use
+- [ ] Decide if your **issue card** is a **Bug** or a **Task** and change the title to reflect this.
+- [ ] Add a brief **description** that will enable others to **orient** themselves to the overall content of the **issue** 
+- [ ] The **9 clicks** refer to allocation of the **issue card** within the [TeamPSD work space](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/board?assignees=ritahitching&filterLogic=any&repos=87591711) 
+to **pipelines**, 
+
+2. Click on the right:
+i. Pipelines - prioritize in a TeamPSD (& Workgroup) pipeline
+ii. Assignee - assign to an individual team member producing work for the issue
+iii. Label- assign workgroup (lead) responsible for tracking the task
+iv. Projects - assign to domain-specific TeamPSD tracker (issues, features, document, manuscript, team)
+v. Milestones - select monthly sprint milestone within the workgroup
+vi. Estimate - Estimate task in complexity points
+vii. Epics - assign to team-wide epic and TeamPSD master plan project
+viii. Releases - assign to key team release grouped with other relevant issues
+
+3. Once you hit "Submit new issue, underneath the first comment:
+viiii. Add dependency - assess for and add dependencies blocking & blocked by this issue
+
+
+Describe how to use
 - [ ] Purpose of Labels is for a **dependency check** and indicator of **responsible workgroup** more details [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/labels_management.md)
-- [ ] title & due date
+- [ ] Title & Due Date
+- Be sure to include a **Due Date** either based on discussions at **workgroup meetings** or **huddles** or your **best estimate**.  Due dates and revisions needed should be discussed with TeamPSD.  
 - [ ] in relation to epic 
-- [ ] 9 clicks issue template [here](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/issue.md)
+
 
  # Features Card
 - [ ] Cards using this template will go through [**feature_tracker**](https://mtl.how/features) which have respective columns for ranking and prioritizing items and progressing them along the tracker as they get finished.
