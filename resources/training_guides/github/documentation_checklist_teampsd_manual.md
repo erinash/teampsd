@@ -58,56 +58,20 @@
 - [ ] The **features** card includes a **guide** and **list of action items** for you to complete to ensure that the content of the card is as useful and self-explanatory as possible.
 - [ ] The [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/feature.md) includes a **7 step** process to document the **feature requirements** that includes **define** (work breakdown), **design** (operations to do & research to do), **develop** (in-development or frozen), **test** (bring tested), **prod** (in production) and **done**.
 - [ ] Each **section** of the template has **associated task cards** (other work to develop the feature). 
-- [ ] The purpose of the [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/feature.md)  is to ensure that **requirements** are **checked off** and to verify the **progress** of the feature through the [feature tracker](http://mtl.how/features),
+- [ ] The purpose of the [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/feature.md)  is to ensure that **requirements** are **checked off** and to verify the **progress** of the feature through the [feature tracker](http://mtl.how/features).
 - [ ] Ensure that the **define in work breakdown** is described in **sufficiently detailed** that the developers have a **clear guidance** on the **specifications** of the **feature**.
 - [ ] The **work_breakdown** needs to include the **what & why** of the **feature** and appropriate allocation of **date & who**.
 - [ ] Document and cross reference the commensurate **issue cards** for the **define in work breakdown** section.
 - [ ] In the **design** section address the **operations to do** and the **research to do** in **sufficiently detailed** that the developers have a **clear guidance**
-
-
-- [ ] a. **what & why** - **_MVP_ of design** of requirements in a **algorithm map, wireframes or design** on the **master_feature_card.**
-  - [ ] b. **date & who** -  **Verified** design **asynchronously** or an **existing team meeting.**
-  
-  Task Cards:
-  #
----
-- [ ] 3. **DEVELOP** in **under_development** - "frozen"
-
-  Task Cards:
-  #
----
-- [ ] 4. **TEST in functional_test**
-  - [ ] a. **what & why** - **TEST requirements** using **testing_checklist** on the **master_feature_card.**
-  - [ ] b. **date & who** -  **Verified** via TEST **asynchronously** or an **existing team meeting.**
-  
-  Task Cards:
-  #
----
-- [ ] 5. **PROD in done**
-  - [ ] a. **what & why** - **_DOCUMENT_ feature** using **document_tracker** for the **5 D's.** 
-  - [ ] b. **date & who** -  **DELEGATE**
-    - [ ] **describe_learners** [Jenn & Rita]
-    - [ ] **detail_facilitators** [Jane & Debbie]
-    - [ ] **document_team** [Anthony]
-    - [ ] **disseminate_scientists_va** [Anthony]
-    - [ ] **depend_products** [hq & ees]
-  
-  Task Cards:
-  #
----
-- [ ] 6. **closed** - fully documented, trained and ready for the next release.
-
-
-
-
-
-includes **Title & Due Date**, suggestions to add **screenshots** and a **9 click** step on assigning the issue.
-
-- [ ] Cards using this template will go through [**feature_tracker**](https://mtl.how/features) which have respective columns for ranking and prioritizing items and progressing them along the tracker as they get finished.
-- [ ] Describe how to use
-- [ ] title & due date
-- [ ] in relation to epic 
-- [ ]  clicks
-
-- [ ] Intermediate step of documentation for a new team member (e.g. data scientist) to be able to use a ***issue** or **feature** card
-- [ ] Check #921 for details of the feature to use for check list 
+- [ ] The **design** needs to incorporate the **what & why of the MVP of design** of the **feature** and appropriate allocation of **date & who**.
+- [ ] Document and cross reference the commensurate **issue cards** for the **design - operations and research to do** section.
+- [ ] In the **develop** section address the **stage** of the development process the **feature** is in (under development, frozen)
+- [ ] Document and cross reference the commensurate **issue cards** for the **develop stage** section.
+- [ ] At the **test** section consider the **functional tests** that the **feature** will require such as a **testing checklist** or a **master feature card.**
+- [ ] The **test** section needs to include the **what & why** of the **feature** and needed updates to relevant **documentation** (e.g. guides) and need to be tracked in the [document tracker](http://mtl.how/document).
+- [ ] The **test** phase of **feature** needs to include allocation of appropriate **date & who** will be responsible for the **testing**.
+- [ ] Document and cross reference the commensurate **issue cards** for the **test stage**.
+- [ ] The **prod** phase is the last stage of **feature** development and includes the **what & why of feature** and the allocation and delegation of **date & who** will be responsible for the **release** of the **feature**.
+- [ ] Releveant **work groups** need to be allerted to any changes to the **features** and includes the **describe learners**, **detail facilitators**,**document team**, **disseminate scientists va** and **depend products**.
+- [ ] Document and cross reference the commensurate **issue cards** for the **prod phase**.
+- [ ] The final step in a new **feature** cycle is the **closed** stage.  At this stage a **new feature** is fully documented, users are trained and ready for the next release.
