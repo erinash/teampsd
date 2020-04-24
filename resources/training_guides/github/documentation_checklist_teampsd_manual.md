@@ -28,7 +28,8 @@
 - [ ] Decide on the choice of ticket you want to create **Feature** or **Issue** 
 - [ ] Use case for **Issue** cards is when you have a **task** that you have been asked to do, or a **Bug** that needs squashing
 - [ ] Use case for a **Feature** is when you are working on developing a new tool or capability.
-- [ ] Follow the steps for the different type of card below
+- [ ] Select the **green button** with the label **get started** for either **feature** or **issue**. 
+- [ ] Follow the steps for the different type of card outlined below.
 
 ## Issue Card
 - [ ] The **issue** card includes a **guide** and **list of action items** for you to complete to ensure that the content of the card is as useful and self-explanatory as possible.
@@ -55,7 +56,51 @@
 
  # Features Card
 - [ ] The **features** card includes a **guide** and **list of action items** for you to complete to ensure that the content of the card is as useful and self-explanatory as possible.
-- [ ] The [template](
+- [ ] The [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/feature.md) includes a **7 step** process to document the **feature requirements** that includes **define** (work breakdown), **design** (operations to do & research to do), **develop** (in-development or frozen), **test** (bring tested), **prod** (in production) and **done**.
+- [ ] Each **section** of the template has **associated task cards** (other work to develop the feature). 
+- [ ] The purpose of the [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/feature.md)  is to ensure that **requirements** are **checked off** and to verify the **progress** of the feature through the [feature tracker](http://mtl.how/features),
+- [ ] Ensure that the **define in work breakdown** is described in **sufficiently detailed** that the developers have a **clear guidance** on the **specifications** of the **feature**.
+- [ ] The **work_breakdown** needs to include the **what & why** of the **feature** and appropriate allocation of **date & who**.
+- [ ] Document and cross reference the commensurate **issue cards** for the **define in work breakdown** section.
+- [ ] In the **design** section address the **operations to do** and the **research to do** in **sufficiently detailed** that the developers have a **clear guidance**
+
+
+- [ ] a. **what & why** - **_MVP_ of design** of requirements in a **algorithm map, wireframes or design** on the **master_feature_card.**
+  - [ ] b. **date & who** -  **Verified** design **asynchronously** or an **existing team meeting.**
+  
+  Task Cards:
+  #
+---
+- [ ] 3. **DEVELOP** in **under_development** - "frozen"
+
+  Task Cards:
+  #
+---
+- [ ] 4. **TEST in functional_test**
+  - [ ] a. **what & why** - **TEST requirements** using **testing_checklist** on the **master_feature_card.**
+  - [ ] b. **date & who** -  **Verified** via TEST **asynchronously** or an **existing team meeting.**
+  
+  Task Cards:
+  #
+---
+- [ ] 5. **PROD in done**
+  - [ ] a. **what & why** - **_DOCUMENT_ feature** using **document_tracker** for the **5 D's.** 
+  - [ ] b. **date & who** -  **DELEGATE**
+    - [ ] **describe_learners** [Jenn & Rita]
+    - [ ] **detail_facilitators** [Jane & Debbie]
+    - [ ] **document_team** [Anthony]
+    - [ ] **disseminate_scientists_va** [Anthony]
+    - [ ] **depend_products** [hq & ees]
+  
+  Task Cards:
+  #
+---
+- [ ] 6. **closed** - fully documented, trained and ready for the next release.
+
+
+
+
+
 includes **Title & Due Date**, suggestions to add **screenshots** and a **9 click** step on assigning the issue.
 
 - [ ] Cards using this template will go through [**feature_tracker**](https://mtl.how/features) which have respective columns for ranking and prioritizing items and progressing them along the tracker as they get finished.
