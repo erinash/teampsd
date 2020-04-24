@@ -23,10 +23,10 @@ output:
 ## General Markdown Language for GitHub 
 - [ ] Guide for markdown [language](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
 - [ ] Basics of GitHub issues explained ]here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
-- [ ] Basics of GitHub repositories, branches, commits, and opening/merging pull requests[here](https://guides.github.com/activities/hello-world/)
+- [ ] Basics of GitHub repositories, branches, commits, and opening/merging [pull requests](https://guides.github.com/activities/hello-world/)
 
 ## TeamPSD GitHub Repo
-- [ ] Ensure you have access to TeamPSD Repos [**MTL.how/teampsd**](https://github.com/lzim/teampsd) and [**mtl.how/mtl**](https://github.com/lzim/mtl) more details [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/repositories.md)
+- [ ] Ensure you have access to TeamPSD Repos [MTL.how/teampsd](https://github.com/lzim/teampsd) and [mtl.how/mtl](https://github.com/lzim/mtl) more details on the[repositories](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/repositories.md) are available.
 - [ ] Basics of GitHub for [TeamPSD](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
 
 ## Visual Maps for TeamPSD GitHub
@@ -34,7 +34,7 @@ output:
 - [ ] Visual map on updating [issue cards](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/documentation_map.md)
 
 ## TeamPSD Difference Between Issue or Feature Cards
-- [ ] Orient to [**MTL.how/teampsd**](https://github.com/lzim/teampsd)  on your internet browser
+- [ ] Orient to [MTL.how/teampsd](https://github.com/lzim/teampsd) on your internet browser
 - [ ] In the panel select the **Issues** tab
 - [ ] Select the **New Issue** green square on the right hand side
 - [ ] Decide on the choice of ticket you want to create **Feature** or **Issue** 
@@ -55,7 +55,7 @@ output:
 - [ ] Other **task cards** should be allocated to the appropriate **pipeline** which includes **Priority Epic** (current focus of work), **Upcoming Epic** (work that will need to be completed by the next epic) and **Upcoming Backlog** (work that will need to be completed two epics back from the current epic) and **Icebox** (work that will need to be completed but does not currently have an associated due date)
 - [ ] Select the appropriate **Assignee** this will typically be you or an individual team member producing work for the issue.  Typically, only **1** person is assigned to a task card.
 - [ ] Select an **label** for your issue card - typically the choice of label is associated with the **workgroup lead** for which the task card is associated with - they are responsible for tracking and completing the task.  
-- [ ] In TeamPSD **projects** refer to the **TeamPSD trackers** ([issues](https://github.com/lzim/teampsd/issues), [bugs](http://mtl.how/bugs), [features](http://mtl.how/features), [document](http://mtl.how/documents), [manuscript](http://mtl.how/manuscript), and [team](http://mtl.how/team)).  Select the **Projects** your issue card is associate with. **Note** that **not all** issue cards need to be associated with a **project** with the **exception** of **bugs** which always need to be associated with the [bug tracker](http://mtl.how/bugs)
+- [ ] In TeamPSD **projects** refer to the **TeamPSD trackers** ([issues](https://github.com/lzim/teampsd/issues), [bugs](http://mtl.how/bugs), [features](http://mtl.how/features), [document](http://mtl.how/documents), [manuscript](http://mtl.how/manuscript), and [team](http://mtl.how/team).  Select the **Projects** your issue card is associate with. **Note** that **not all** issue cards need to be associated with a **project** with the **exception** of **bugs** which always need to be associated with the [bug tracker](http://mtl.how/bugs)
 - [ ] The allocation of an issue ticket to a **Milestones** is topically consistent with the **date** of the corresponding **epic**.  Dates for TeamPSD milestones can be found on [ZenHUb](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/milestones)
 - [ ] Anticipate the amount of **points/effort** that a task is likely to require and based on the **scope** of work. The general recommendation is to **over estimate** the amount of points and **adjust** if needed.  
 - [ ] As part of the TeamPSD master plan project **epics** are created to enable the team to focus their efforts appropriately.  Each issue card needs to be associated with an **epic** , if you need additional information on choice of **epic** details of TeamPSD [epics](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/roadmap) may be helpful.
