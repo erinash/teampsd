@@ -22,7 +22,7 @@ output:
 
 ## General Markdown Language for GitHub 
 - [ ] Guide for markdown [language](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
-- [ ] Basics of GitHub issues explained ]here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
+- [ ] Basics of [GitHub issues explained](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
 - [ ] Basics of GitHub repositories, branches, commits, and opening/merging [pull requests](https://guides.github.com/activities/hello-world/)
 
 ## TeamPSD GitHub Repo
