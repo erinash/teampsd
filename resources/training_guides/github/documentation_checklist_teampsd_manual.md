@@ -35,12 +35,12 @@
 - [ ] The [template](https://github.com/lzim/teampsd/blob/master/.github/ISSUE_TEMPLATE/issue.md) includes **Title & Due Date**, suggestions to add **screenshots** and a **9 click** step on assigning the issue.
 - [ ] Cards using this template will go through either the [**bug_tracker**](https://mtl.how/bugs) or be associated with each of the workgroups using the **labels** tabe
 - [ ] Decide if your **issue card** is a **Bug** or a **Task** and change the title to reflect this.
-- [ ] Add a brief **description** that will enable others to **orient** themselves to the overall content of the **issue** 
-- [ ] The **9 clicks** refer to allocation of the **issue card** within the [TeamPSD work space](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/board?assignees=ritahitching&filterLogic=any&repos=87591711) 
-to **pipelines**, 
+- [ ] Add a brief **description** that will enable others to **orient** themselves to the overall content of the **issue** .
+- [ ] The **9 clicks** refer to allocation of the **issue card** within the [TeamPSD work space](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/board?assignees=ritahitching&filterLogic=any&repos=87591711) - options within each **section** can be seen by **pulling down on the arrow** by the **section label**. 
+- [ ] Assign you **issue card** to the appropriate **pipeline** - to prioritize the content of the **task card** or **bug card**
+- [ ] All **urgent issues** including **bugs** should be assigned to the **Priority Epic**.
+- [ ] Other **task cards** should be allocated to the appropriate **pipeline** which includes **Priority Epic** (current focus of work), **Upcoming Epic** (work that will need to be completed by the next epic) and **Upcoming Backlog** (work that will need to be completed two epics back from the curren epic) and **Icebox** (work that will need to be completed but does not currently have an associated due date)
 
-2. Click on the right:
-i. Pipelines - prioritize in a TeamPSD (& Workgroup) pipeline
 ii. Assignee - assign to an individual team member producing work for the issue
 iii. Label- assign workgroup (lead) responsible for tracking the task
 iv. Projects - assign to domain-specific TeamPSD tracker (issues, features, document, manuscript, team)
