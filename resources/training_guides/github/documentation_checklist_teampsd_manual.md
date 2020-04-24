@@ -44,10 +44,10 @@
 - [ ] Select an **label** for your issue card - typically the choice of label is associated with the **workgroup lead** for which the task card is associated with - they are responsible for tracking and completing the task.  
 - [ ] In TeamPSD **projects** refer to the **TeamPSD trackers** ([issues](https://github.com/lzim/teampsd/issues), [bugs](http://mtl.how/bugs), [features](http://mtl.how/features), [document](http://mtl.how/documents), [manuscript](http://mtl.how/manuscript), and [team](http://mtl.how/team)).  Select the **Projects** your issue card is associate with. **Note** that **not all** issue cards need to be associated with a **project** with the **exception** of **bugs** which always need to be associated with the [bug tracker](http://mtl.how/bugs)
 - [ ] The alloaction of an issue ticket to a **Milestones** is tpically consistent with the **date** of the corresponding **epic**.  Dates for TeamPSD milestones can be found on [ZenHUb](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/milestones)
-- [ ] 
-vi. Estimate - Estimate task in complexity points
-vii. Epics - assign to team-wide epic and TeamPSD master plan project
-viii. Releases - assign to key team release grouped with other relevant issues
+- [ ] Anticipate the amont of **points/effort** that a task is likely to require and based on the **scope** of work. The general recommendation is to **over estimate** the amount of points and **adjust** if needed.  
+- [ ] As part of the TeamPSD master plan project **epics** are created to enable the team to focus their efforts appropriately.  Each issue card needs to be associated with an **epic** , if you need additional information on choice of **epic** details of TeamPSD [epics](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/roadmap) may be helpful.
+- [ ]  An additional part of the TeamPSD master plan project is **releases** typically associated with the release of a *MTL* version or in response to a grant or particular project ([MT_1.7](https://github.com/lzim/mtl/tree/master/release_1.7), MTL_2.0](https://github.com/lzim/mtl) and [MTL_covid19].  **Note** that **not all** issue cards need to be associated with a **release**.
+
 
 3. Once you hit "Submit new issue, underneath the first comment:
 viiii. Add dependency - assess for and add dependencies blocking & blocked by this issue
