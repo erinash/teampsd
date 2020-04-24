@@ -11,8 +11,8 @@ output:
   slidy_presentation: default
   powerpoint_presentation: default
 ---
-<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/team_psd_logo_sm.png" height = "200" width = "600">  
-
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/team_psd_logo_sm.png" height = "200" width = "600">](#.) 
+     
 # GitHub Documentation Checklist for Team PSD Manual 
 
 ## GitHub & ZenHub Accounts
