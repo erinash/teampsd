@@ -4,25 +4,25 @@
 # GitHub Documentation Checklist for Team PSD Manual 
 
 ## Github & ZenHub Accounts
-- [ ] Create a **GitHub account** [here](https://github.com/)
-- [ ] Create a **ZenHub account** [here](https://www.zenhub.com/) 
+- [ ] Create a **GitHub [account**](https://github.com/)
+- [ ] Create a **ZenHub [account**](https://www.zenhub.com/) 
 - [ ] Connect you **GitHub and ZenHub** accounts
 
 ## General Markdown Lanuage for Github 
-- [ ] Guide for markdown language [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
+- [ ] Guide for markdown [language](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
 - [ ] Basics of GitHub issues explained ]here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
 - [ ] Basics of GitHub repositories, branches, commits, and opening/merging pull requests[here](https://guides.github.com/activities/hello-world/)
 
 ## TeamPSD Github Repo
 - [ ] Ensure you have access to TeamPSD Repos [**MTL.how/teampsd**](https://github.com/lzim/teampsd) and [**mtl.how/mtl**](https://github.com/lzim/mtl) more details [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/repositories.md)
-- [ ] Basics of GitHub for TeamPSD [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
+- [ ] Basics of GitHub for [TeamPSD](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/github_guide.md)
 
 ## Visual Maps for TeamPSD Github
 - [ ] Visual map on creating a [new issue or bug](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/zenhub_flow.md)
 - [ ] Visual map on updating [issue cards](https://github.com/lzim/teampsd/blob/master/resources/maps/maps_markdown/documentation_map.md)
 
 ## TeamPSD Difference Between Issue or Feature Cards
-- [ ] Orient to **MTL.how/teampsd** on your internet browser
+- [ ] Orient to [**MTL.how/teampsd**](https://github.com/lzim/teampsd)  on your internet browser
 - [ ] In the panel select the **Issues** tab
 - [ ] Select the **New Issue** green square on the right hand side
 - [ ] Decide on the choice of ticket you want to create **Feature** or **Issue** 
@@ -40,9 +40,10 @@
 - [ ] Assign you **issue card** to the appropriate **pipeline** - to prioritize the content of the **task card** or **bug card**
 - [ ] All **urgent issues** including **bugs** should be assigned to the **Priority Epic**.
 - [ ] Other **task cards** should be allocated to the appropriate **pipeline** which includes **Priority Epic** (current focus of work), **Upcoming Epic** (work that will need to be completed by the next epic) and **Upcoming Backlog** (work that will need to be completed two epics back from the curren epic) and **Icebox** (work that will need to be completed but does not currently have an associated due date)
+- [ ] Select the appropriate **Assignee** this will typically be you or an individual team member producing work for the issue.  Typically only **1** person is assigned to a task card.
 
-ii. Assignee - assign to an individual team member producing work for the issue
-iii. Label- assign workgroup (lead) responsible for tracking the task
+
+iii. Label- assign workgroup (lead) responsible for tracking and completing the task
 iv. Projects - assign to domain-specific TeamPSD tracker (issues, features, document, manuscript, team)
 v. Milestones - select monthly sprint milestone within the workgroup
 vi. Estimate - Estimate task in complexity points
