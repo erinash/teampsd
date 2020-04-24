@@ -43,9 +43,8 @@
 - [ ] Select the appropriate **Assignee** this will typically be you or an individual team member producing work for the issue.  Typically only **1** person is assigned to a task card.
 - [ ] Select an **label** for your issue card - typically the choice of label is associated with the **workgroup lead** for which the task card is associated with - they are responsible for tracking and completing the task.  
 - [ ] In TeamPSD **projects** refer to the **TeamPSD trackers** ([issues](https://github.com/lzim/teampsd/issues), [bugs](http://mtl.how/bugs), [features](http://mtl.how/features), [document](http://mtl.how/documents), [manuscript](http://mtl.how/manuscript), and [team](http://mtl.how/team)).  Select the **Projects** your issue card is associate with. **Note** that **not all** issue cards need to be associated with a **project** with the **exception** of **bugs** which always need to be associated with the [bug tracker](http://mtl.how/bugs)
-
-- assign to domain-specific TeamPSD tracker (issues, features, document, manuscript, team)
-v. Milestones - select monthly sprint milestone within the workgroup
+- [ ] The alloaction of an issue ticket to a **Milestones** is tpically consistent with the **date** of the corresponding **epic**.  Dates for TeamPSD milestones can be found on [ZenHUb](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/milestones)
+- [ ] 
 vi. Estimate - Estimate task in complexity points
 vii. Epics - assign to team-wide epic and TeamPSD master plan project
 viii. Releases - assign to key team release grouped with other relevant issues
