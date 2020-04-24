@@ -16,8 +16,8 @@ output:
 # GitHub Documentation Checklist for Team PSD Manual 
 
 ## GitHub & ZenHub Accounts
-- [ ] Create a **GitHub [account**](https://github.com/)
-- [ ] Create a **ZenHub [account**](https://www.zenhub.com/) 
+- [ ] Create a [GitHub account](https://github.com/)
+- [ ] Create a [ZenHub account](https://www.zenhub.com/) 
 - [ ] Connect you **GitHub and ZenHub** accounts
 
 ## General Markdown Language for GitHub 
