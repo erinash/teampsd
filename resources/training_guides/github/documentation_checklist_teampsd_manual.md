@@ -47,20 +47,17 @@
 - [ ] Anticipate the amont of **points/effort** that a task is likely to require and based on the **scope** of work. The general recommendation is to **over estimate** the amount of points and **adjust** if needed.  
 - [ ] As part of the TeamPSD master plan project **epics** are created to enable the team to focus their efforts appropriately.  Each issue card needs to be associated with an **epic** , if you need additional information on choice of **epic** details of TeamPSD [epics](https://app.zenhub.com/workspaces/team-psd-workspace-5e4ac9bd8d388dfba6d9aef5/roadmap) may be helpful.
 - [ ]  An additional part of the TeamPSD master plan project is **releases** typically associated with the release of a *MTL* version or in response to a grant or particular project ([MT_1.7](https://github.com/lzim/mtl/tree/master/release_1.7), MTL_2.0](https://github.com/lzim/mtl) and [MTL_covid19].  **Note** that **not all** issue cards need to be associated with a **release**.
-
-
-3. Once you hit "Submit new issue, underneath the first comment:
-viiii. Add dependency - assess for and add dependencies blocking & blocked by this issue
-
-
-Describe how to use
-- [ ] Purpose of Labels is for a **dependency check** and indicator of **responsible workgroup** more details [here](https://github.com/lzim/teampsd/blob/master/resources/training_guides/github/labels_management.md)
-- [ ] Title & Due Date
-- Be sure to include a **Due Date** either based on discussions at **workgroup meetings** or **huddles** or your **best estimate**.  Due dates and revisions needed should be discussed with TeamPSD.  
-- [ ] in relation to epic 
+- [ ] The final step to creating an issue card is **select the green** button **Submit new issue** 
+- [ ] If you anticipate that your **issue card** or **bug card** will have **dependencies** these can be added once the issue has been submitted. 
+- [ ] Within the issue you've created look for the **grey button** labelled **add dependency** - assess if your issue is **blocking** or **blocked** by another issue card and **tag** the relevant issue by **searching** for the issue by **name** or issue **number**.
+- [ ] Issue cards can be both **blocking** and **blocked** by simultaneously. 
 
 
  # Features Card
+- [ ] The **features** card includes a **guide** and **list of action items** for you to complete to ensure that the content of the card is as useful and self-explanatory as possible.
+- [ ] The [template](
+includes **Title & Due Date**, suggestions to add **screenshots** and a **9 click** step on assigning the issue.
+
 - [ ] Cards using this template will go through [**feature_tracker**](https://mtl.how/features) which have respective columns for ranking and prioritizing items and progressing them along the tracker as they get finished.
 - [ ] Describe how to use
 - [ ] title & due date
