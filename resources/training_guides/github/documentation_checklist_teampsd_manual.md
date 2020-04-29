@@ -1,7 +1,7 @@
 ---
 title: "documentation_checklist_teampsd_manual"
 author: "Rita Hitching"
-date: "April 24 2020"
+date: "April 29 2020"
 output: 
   github_document: default
   html_document: default
@@ -13,7 +13,7 @@ output:
 ---
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/team_psd_logo_sm.png" height = "200" width = "600">](#.) 
      
-# GitHub Documentation Checklist for Team PSD Manual 
+# Checklist to Review GitHub Documentation Templates for Team PSD Manual 
 
 ## GitHub & ZenHub Accounts
 - [ ] Create a [GitHub account](https://github.com/)
