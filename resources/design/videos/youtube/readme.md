@@ -65,8 +65,6 @@ If you don’t already have an account **Select this link** to create a Google a
    
    - You will see a confirmation in your inbox that reads, "You are now a manager of LZPhD".
    
-<img src="https://github.com/erinash/teampsd/blob/master/resources/design/videos/guide_screenshots/youtube_email_lrg.png" width="300">
-   
    - **Select** the new email. 
    
    - **You are now a manager** Congratulations!
@@ -78,8 +76,6 @@ If you don’t already have an account **Select this link** to create a Google a
 <img src="https://github.com/erinash/teampsd/blob/master/resources/design/videos/guide_screenshots/youtube_getstarted.png" width="300">
 
   - **Select** the YouTube red icon.
-  
-<img src="https://github.com/erinash/teampsd/blob/master/resources/design/videos/guide_screenshots/youtube_redicon_lrg.png" width="300">
 
   - Your YouTube dashboard will open up.
 
