@@ -79,7 +79,7 @@ If you don’t already have an account **Select this link** to create a Google a
 
   - Your YouTube dashboard will open up.
 
-  - **Navigate to the top right** and **select** LZPhD's circular profile pic.
+  - **Navigate to the top right** and **select** your circular profile pic.
   
 <img src="https://github.com/erinash/teampsd/blob/master/resources/design/videos/guide_screenshots/youtube_videobar.png" width="300">
 
